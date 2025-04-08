@@ -1,2 +1,2 @@
-# peach-oolong-tea.github.io
-Static navigation website
+- [Game link](https://game-backend-655182341745.us-west3.run.app/)
+- TODO: Survey link

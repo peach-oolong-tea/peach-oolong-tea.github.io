@@ -1,7 +1,7 @@
 # Game link
-- [beta](https://game-beta-with-dashboard-655182341745.us-west3.run.app/)
+- [stable + us server](https://game-prod-655182341745.us-west3.run.app)
+- [beta + asia server](https://game-beta-655182341745.asia-east1.run.app)
 
-- [stable + dev tool enabled](https://game-backend-655182341745.us-west3.run.app/)
 
 # Feedback
 - [Please provide some feedback here!!!](https://forms.gle/gbCYXqdnYiXorCwz6) it means SUPER to me~
@@ -10,5 +10,6 @@
 
   - soysaucefor3@gmail.com
   - soysaucefor3.bsky.social
+  - wechat: soysaucefor333
 
 ------
